@@ -9,7 +9,7 @@ const App = () => {
       <div class="ui row">
         <div class="column eight wide">
           <SongList />
-        </div>{" "}
+        </div>
         <div class="column eight wide">
           <SongDetail />
         </div>
